@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "simple-serverless",
+  "workspaces": [
+    "packages/*",
+    "src/**"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sonofmagic/simple-serverless.git",
+  "author": "SonOfMagic <qq1324318532@gmail.com>",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "esbuild": "^0.11.15",
+    "eslint": "7.12.1",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "4.2.1",
+    "lerna": "^4.0.0",
+    "typescript": "^4.2.4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "simple-serverless-sdk",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "SonOfMagic <qq1324318532@gmail.com>",
+  "homepage": "https://github.com/sonofmagic/simple-serverless#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonofmagic/simple-serverless.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sonofmagic/simple-serverless/issues"
+  }
+}
